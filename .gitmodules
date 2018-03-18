@@ -1,0 +1,3 @@
+[submodule "howto-docker-xdebug"]
+	path = howto-docker-xdebug
+	url = git@github.com:hbt/howto-docker-xdebug.git
